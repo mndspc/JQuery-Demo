@@ -70,6 +70,8 @@
     <Content Include="Global.asax" />
     <Content Include="IntroToJQuery.html" />
     <Content Include="JQueryAnimation.html" />
+    <Content Include="JQueryCallback.html" />
+    <Content Include="JQueryDOM.html" />
     <Content Include="JQueryFade.html" />
     <Content Include="JQueryMethods.html" />
     <Content Include="JQuerySelectorsDemo.html" />
